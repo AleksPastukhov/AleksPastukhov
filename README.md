@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Oleksandr 👋</h1>
 
 - 🔭 I'm currently working on self-development.
-- 🌱 Now I am learning everything that helps me reach my goal.
+- 🌱 Now I am learning everything that helps me reach my goals.
 - 👯 I want to cooperate with those who will help me become better today compared to me yesterday.
 - 📫 How to reach me? Very simple. Send me a <a href="mailto:oleksandr.s.pastukhov@gmail.com">Mail</a> or write in <a href="https://t.me/aleks_pastukhov">Telegram</a>.
 
