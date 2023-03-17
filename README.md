@@ -4,6 +4,7 @@
 - 🌱 Now I am learning everything that helps me reach my goals.
 - 👯 I want to cooperate with those who will help me become better today compared to me yesterday.
 - 📫 How to reach me? Very simple. Send me a <a href="mailto:oleksandr.s.pastukhov@gmail.com">Mail</a> or write in <a href="https://t.me/aleks_pastukhov">Telegram</a>.
+- 📋 <a href="http://surl.li/focsz">My CV</a>.
 
 ### My stack
 
