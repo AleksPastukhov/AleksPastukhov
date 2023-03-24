@@ -1,3 +1,4 @@
+<div align="center">
 <h1>Hi there, I'm Oleksandr 👋</h1>
 
 - 🔭 I'm currently working on self-development.
@@ -5,7 +6,7 @@
 - 👯 I want to cooperate with those who will help me become better today compared to me yesterday.
 - 📫 How to reach me? Very simple. Send me a <a href="mailto:oleksandr.s.pastukhov@gmail.com">Mail</a> or write in <a href="https://t.me/aleks_pastukhov">Telegram</a>.
 - 📋 <a href="http://surl.li/focsz">My CV</a>
-<div align="center">
+
 ### My stack
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
