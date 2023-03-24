@@ -6,7 +6,7 @@
 - 📫 How to reach me? Very simple. Send me a <a href="mailto:oleksandr.s.pastukhov@gmail.com">Mail</a> or write in <a href="https://t.me/aleks_pastukhov">Telegram</a>.
 - 📋 <a href="http://surl.li/focsz">My CV</a>
 
-  <h2 align="center">My stack</h2>
+<h2 align="center">My stack</h2>
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -41,9 +41,9 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br>
-<div align="center">
-  <h2>My Stats</h2>
 
+<h2 align="center">My Stats</h2>
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksPastukhov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksPastukhov&theme=github-dark-blue&border_radius=10&mode=weekly)](https://git.io/streak-stats)
