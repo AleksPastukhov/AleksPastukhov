@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Oleksandr 👋</h1>
+<h1 align="center">Hi there, I'm Oleksandr 👋</h1>
 
 - 🔭 I'm currently working on self-development.
 - 🌱 Now I am learning everything that helps me reach my goals.
@@ -6,8 +6,7 @@
 - 📫 How to reach me? Very simple. Send me a <a href="mailto:oleksandr.s.pastukhov@gmail.com">Mail</a> or write in <a href="https://t.me/aleks_pastukhov">Telegram</a>.
 - 📋 <a href="http://surl.li/focsz">My CV</a>
 
-
-### My stack
+  <h2>My stack</h2>
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
