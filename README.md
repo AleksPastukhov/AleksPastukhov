@@ -44,4 +44,5 @@
 ### My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksPastukhov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksPastukhov&theme=github-dark-blue&border_radius=10&mode=weekly)](https://git.io/streak-stats)
