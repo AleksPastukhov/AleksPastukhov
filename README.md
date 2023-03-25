@@ -48,7 +48,7 @@
 <div align="center">
 <h2 align="center">My Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksPastukhov&layout=compact&theme=vision-friendly-dark)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=AleksPastukhov&layout=compact&theme=vision-friendly-dark)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksPastukhov&theme=github-dark-blue&border_radius=10&mode=weekly)
+(https://github-readme-streak-stats.herokuapp.com/?user=AleksPastukhov&theme=github-dark-blue&border_radius=10&mode=weekly)
 </div>
