@@ -7,10 +7,7 @@
 - 📋 <a href="http://surl.li/focsz">My CV</a>
 
 <h2 align="center">My stack</h2>
-<div align="center" style="
-    display: flex;
-    align-items: center;
-    justify-content: space-between; >
+<div align="center" display="flex" align-items="center" justify-content="space-between" >
 <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <!-- <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> -->
